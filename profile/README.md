@@ -8,6 +8,8 @@
 
 Compress what your agent remembers based on where it's going — not just where it's been.
 
+<img src="https://raw.githubusercontent.com/memahead/.github/main/profile/architecture.png" alt="memahead architecture" width="700" />
+
 [![PyPI version](https://badge.fury.io/py/memahead.svg)](https://pypi.org/project/memahead/)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/memahead/memahead/blob/main/LICENSE)
 [![Tests](https://github.com/memahead/memahead/actions/workflows/ci.yml/badge.svg)](https://github.com/memahead/memahead/actions)
